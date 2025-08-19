@@ -1,0 +1,138 @@
+## ----------------------------------------------------------------
+## .NET / Visual Studio
+## ----------------------------------------------------------------
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# Tye
+.tye/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Backup & report files
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.cachefile
+*.dbmdl
+*.bak
+*.backup
+*.BLOB
+*.CoreCompileInputs.cache
+*.FileListAbsolute.txt
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+*.coverage
+*.coveragexml
+*.testsettings
+*.trx
+TestResult.xml
+
+# BenchmarkDotNet Artifacts
+BenchmarkDotNet.Artifacts/
+
+# .NET generated
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nuget.props
+*.nuget.targets
+**/Properties/launchSettings.json
+
+# Paket
+.paket/
+paket-files/
+
+# Publish
+*.publish.xml
+publish/
+wwwroot/dist/
+node_modules/
+
+## ----------------------------------------------------------------
+## Microsoft Office Temp/Lock Files
+## ----------------------------------------------------------------
+~$*.docx
+~$*.doc
+~$*.pptx
+~$*.ppt
+~$*.xlsx
+~$*.xls
+
+## ----------------------------------------------------------------
+## OS / File Explorer Junk
+## ----------------------------------------------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Linux
+.Trash-*
+.nfs*
+
+## ----------------------------------------------------------------
+## Generic Temp / Backup Files
+## ----------------------------------------------------------------
+*.tmp
+*.bak
+*.swp
+*.swo
+*.old
+*.orig
+*.temp
+*.log

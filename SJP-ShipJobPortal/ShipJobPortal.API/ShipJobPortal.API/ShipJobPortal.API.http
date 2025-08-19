@@ -1,0 +1,6 @@
+@ShipJobPortal.API_HostAddress = http://localhost:5044
+
+GET {{ShipJobPortal.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
